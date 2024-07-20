@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\bin\Debug\net6.0-windows\ControlSytem.exe
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\bin\Debug\net6.0-windows\ControlSytem.deps.json
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\bin\Debug\net6.0-windows\ControlSytem.runtimeconfig.json
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\bin\Debug\net6.0-windows\ControlSytem.dll
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\bin\Debug\net6.0-windows\ControlSytem.pdb
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\ControlSytem.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\ControlSytem.Form1.resources
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\ControlSytem.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\ControlSytem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\ControlSytem.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\ControlSytem.AssemblyInfo.cs
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\ControlSytem.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\ControlSytem.dll
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\refint\ControlSytem.dll
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\ControlSytem.pdb
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\ControlSytem.genruntimeconfig.cache
+C:\Users\acer\source\repos\C#\Understanding classes\first WPF\Simulation\ControlSytem\ControlSytem\obj\Debug\net6.0-windows\ref\ControlSytem.dll
